@@ -52,4 +52,4 @@ That it takes many well maintained and defined files to organize a small db of i
 
 ## What makes your project stand out?
 
-To closely follows all defined critiera for the project.
+This project closely follows all defined critiera for the project.
