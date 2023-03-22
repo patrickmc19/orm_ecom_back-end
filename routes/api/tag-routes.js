@@ -16,7 +16,7 @@ router.get('/', async (req, res) => {
   }
 });
 
-// find a single tag by its `id`
+// find a single tag by id value
 router.get('/:id', async (req, res) => {
   try {
     const tagData = await Tag.findByPk(req.params.id, {
@@ -43,7 +43,7 @@ router.post('/', async (req, res) => {
   }
 });
 
-// update a tag's name by its `id` value
+// update a tag's name by id value
 router.put('/:id', async (req, res) => {
   try {
     const tagData = await Tag.update(req.body, {
@@ -57,7 +57,7 @@ router.put('/:id', async (req, res) => {
   }
 });
 
-// delete on tag by its `id` value
+// delete on tag by id value
 router.delete('/:id', async (req, res) => {
   try {
     const tagData = await Tag.destroy({
