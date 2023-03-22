@@ -40,7 +40,7 @@ To continue to learn and master the topics covered related to Object Relational-
 
 ## Why did I build this project?
 
-To develop my skills and better understand Sequelize, Models, API Routes, CRUD Operations, async functions, RESTful Routes, Associations, Seeds, parent/child model relationshis one-to-one, and one-to-many model relationships.
+To develop my skills and better understand Sequelize, Models, API Routes, CRUD Operations, async functions, RESTful Routes, Associations, Seeds, parent/child model relationships, one-to-one, and one-to-many model relationships.
 
 ## What problem does it solve?
 
