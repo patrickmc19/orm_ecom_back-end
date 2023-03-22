@@ -32,7 +32,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Video Tutorial
 
-[ORM Ecom Back-End](https://user-images.githubusercontent.com/119803685/225789758-32bdc200-cf9b-47f3-9f32-24f1c036866d.webm)
+[ORM Ecom Back-End.webm](https://user-images.githubusercontent.com/119803685/227063765-dc67ceb7-6185-40a1-b069-e9ea6cc7a2e6.webm)
 
 ## What was my motivation?
 
